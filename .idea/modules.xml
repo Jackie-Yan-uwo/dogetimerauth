@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dogetimer.iml" filepath="$PROJECT_DIR$/.idea/modules/dogetimer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dogetimer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dogetimer_main.iml" group="dogetimer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dogetimer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dogetimer_test.iml" group="dogetimer" />
+    </modules>
+  </component>
+</project>
